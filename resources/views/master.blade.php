@@ -5,19 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Organisation</title>
 
+    <!-- <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}"> -->
+    <script src="{{asset('js/tailwind.js')}}"></script>
+
     @yield('head')
 </head>
 <body>
-    @yield('header')
+    @include('includes.header')
     
-    @include('navbar')
+    @include('includes.navbar')
 
     @yield('body')
     
-    @include('navbar')
+    @include('includes.footer')
     
-    @include('js')
+    <script src="{{asset('js/jquery-3.7.1.min.js')}}"></script>
 
+    @include('includes.js')
+    
     @yield('js')
 
 </body>
