@@ -1,7 +1,7 @@
 <div class="app_navbar mobile_nav flex-col justify-around items-center p-2 w-100 border-b border-solid border-gray-200">
     <div class="container mx-auto">
-        <div class="flex flex-row justify-around items-center gap-4">
-            <div class="flex-row flex justify-around w-1/2 gap-4">
+        <div class="flex flex-row justify-around items-center gap-2">
+            <div class="flex-row flex justify-around w-1/2 gap-2">
                 <div class="logo">Bewakoof.com</div>
                 <div class="nav_item flex-row gap-10 flex">
                     <a href="{{route('pages.products')}}">Men</a>
@@ -9,10 +9,10 @@
                     <a href="{{route('pages.products')}}">Mobile Covers</a>
                 </div>
             </div>
-            <div class="flex-row flex justify-around w-1/2 gap-4">
-                <div class="app_search flex flex-row items-center p-4 bg-gray-300 h-8 rounded-sm gap-4">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" style="font-size: 24px;" class=" " stroke="none"><path stroke="#303030" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18.926 11.338a7.588 7.588 0 1 1-15.176 0 7.588 7.588 0 0 1 15.176 0Zm-1.692 5.896L21 21"></path></svg>
-                    <input class="bg-transparent border-none outline-none" type="text" name="search" placeholder="Search by Products">
+            <div class="flex-row flex justify-around w-1/2 gap-2">
+                <div class="app_search flex flex-row items-center p-3 bg-gray-100 w-64 h-6 rounded-md gap-4">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" style="font-size: 24px;" class="w-1/6" stroke="none"><path stroke="#303030" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18.926 11.338a7.588 7.588 0 1 1-15.176 0 7.588 7.588 0 0 1 15.176 0Zm-1.692 5.896L21 21"></path></svg>
+                    <input class="bg-transparent border-none outline-none w-5/6" type="text" name="search" placeholder="Search by Products">
                 </div>
                 <div class="user_nav items-center flex-row gap-4 flex">
                     <a href="{{route('pages.login')}}" class="login">Login</a>

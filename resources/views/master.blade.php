@@ -6,6 +6,9 @@
     <title>Organisation</title>
 
     <link rel="stylesheet" href="{{asset('css/font-awesome.min.css')}}">
+    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{asset('css/montserrat.css')}}">
+    <link rel="stylesheet" href="{{asset('css/style.css')}}">
     <script src="{{asset('js/tailwind.js')}}"></script>
 
     @yield('head')
@@ -15,7 +18,10 @@
     
     @include('includes.navbar')
 
-    @yield('body')
+    <div class="container my-6">
+
+        @yield('body')
+    </div>
     
     @include('includes.footer')
     

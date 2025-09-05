@@ -26,10 +26,10 @@
             <div class="flex flex-col w-full">
                 <h3 class="product_name">Bewakoof@</h3>
                 <div class="prod_description text-m">Product description</div>
-                <div class="prod_amount_details w-full flex flex-row items-center justify-between">
-                    <div class="prod_amount w-1/3">$ 4</div>
-                    <div class="prod_amount_prev w-1/3">$ 10</div>
-                    <div class="prod_amount_off w-1/3">58%</div>
+                <div class="prod_amount_details w-full flex flex-row items-center justify-start gap-3">
+                    <div class="prod_amount">$ 4</div>
+                    <div class="prod_amount_prev">$ 10</div>
+                    <div class="prod_amount_off">58%</div>
                 </div>
             </div>
         </div>
@@ -40,10 +40,10 @@
             <div class="flex flex-col w-full">
                 <h3 class="product_name">Bewakoof@</h3>
                 <div class="prod_description text-m">Product description</div>
-                <div class="prod_amount_details w-full flex flex-row items-center justify-between">
-                    <div class="prod_amount w-1/3">$ 4</div>
-                    <div class="prod_amount_prev w-1/3">$ 10</div>
-                    <div class="prod_amount_off w-1/3">58%</div>
+                <div class="prod_amount_details w-full flex flex-row items-center justify-start gap-3">
+                    <div class="prod_amount">$ 4</div>
+                    <div class="prod_amount_prev">$ 10</div>
+                    <div class="prod_amount_off">58%</div>
                 </div>
             </div>
         </div>
@@ -54,10 +54,10 @@
             <div class="flex flex-col w-full">
                 <h3 class="product_name">Bewakoof@</h3>
                 <div class="prod_description text-m">Product description</div>
-                <div class="prod_amount_details w-full flex flex-row items-center justify-between">
-                    <div class="prod_amount w-1/3">$ 4</div>
-                    <div class="prod_amount_prev w-1/3">$ 10</div>
-                    <div class="prod_amount_off w-1/3">58%</div>
+                <div class="prod_amount_details w-full flex flex-row items-center justify-start gap-3">
+                    <div class="prod_amount">$ 4</div>
+                    <div class="prod_amount_prev">$ 10</div>
+                    <div class="prod_amount_off">58%</div>
                 </div>
             </div>
         </div>
@@ -68,10 +68,10 @@
             <div class="flex flex-col w-full">
                 <h3 class="product_name">Bewakoof@</h3>
                 <div class="prod_description text-m">Product description</div>
-                <div class="prod_amount_details w-full flex flex-row items-center justify-between">
-                    <div class="prod_amount w-1/3">$ 4</div>
-                    <div class="prod_amount_prev w-1/3">$ 10</div>
-                    <div class="prod_amount_off w-1/3">58%</div>
+                <div class="prod_amount_details w-full flex flex-row items-center justify-start gap-3">
+                    <div class="prod_amount">$ 4</div>
+                    <div class="prod_amount_prev">$ 10</div>
+                    <div class="prod_amount_off">58%</div>
                 </div>
             </div>
         </div>
@@ -82,10 +82,10 @@
             <div class="flex flex-col w-full">
                 <h3 class="product_name">Bewakoof@</h3>
                 <div class="prod_description text-m">Product description</div>
-                <div class="prod_amount_details w-full flex flex-row items-center justify-between">
-                    <div class="prod_amount w-1/3">$ 4</div>
-                    <div class="prod_amount_prev w-1/3">$ 10</div>
-                    <div class="prod_amount_off w-1/3">58%</div>
+                <div class="prod_amount_details w-full flex flex-row items-center justify-start gap-3">
+                    <div class="prod_amount">$ 4</div>
+                    <div class="prod_amount_prev">$ 10</div>
+                    <div class="prod_amount_off">58%</div>
                 </div>
             </div>
         </div>
@@ -96,10 +96,10 @@
             <div class="flex flex-col w-full">
                 <h3 class="product_name">Bewakoof@</h3>
                 <div class="prod_description text-m">Product description</div>
-                <div class="prod_amount_details w-full flex flex-row items-center justify-between">
-                    <div class="prod_amount w-1/3">$ 4</div>
-                    <div class="prod_amount_prev w-1/3">$ 10</div>
-                    <div class="prod_amount_off w-1/3">58%</div>
+                <div class="prod_amount_details w-full flex flex-row items-center justify-start gap-3">
+                    <div class="prod_amount">$ 4</div>
+                    <div class="prod_amount_prev">$ 10</div>
+                    <div class="prod_amount_off">58%</div>
                 </div>
             </div>
         </div>
